@@ -1,8 +1,7 @@
 # WorldWideWeb-Browser-
 
-
 1. Que es WorldWideWeb Browser?:
-El WorldWideWeb Browser es un __navegador web__ y __editor de paginas web__ en modo grafico para el sistema operativo __ NEXTSTEP__, este navegador es conocido como la primera __aplicacion informatica__ de este tipo. tiempo despues del lanzamiento, fue nombrado __NEXUS__ para evitar confusiones con el concepto _World Wide Web__.
+El WorldWideWeb Browser es un __navegador web__y __editor de paginas web__ en modo grafico para el sistema operativo __ NEXTSTEP__, este navegador es conocido como la primera __aplicacion informatica__ de este tipo. tiempo despues del lanzamiento, fue nombrado __NEXUS__ para evitar confusiones con el concepto _World Wide Web__.
 
 2. Cual es la funcion de WorldWideWeb-Browser?:
 La funcion del WorldWideWeb-Browser es poder transmitir diversos tipos de datos a traves del protocolo __HTTP__, que son los enlaces de la pagina web.
@@ -20,5 +19,6 @@ El segundo navegador de la World Wide Web Browser fue __Line Mode Browser__ este
 La World Wide Web un navegador web más tarde fue rebautizdo con el nombre de __NEXUS__ para poder evitar confusiones entre el software y la World Wide Web un navegador web. 
 
 
-[World Wide Web](https://raw.githubusercontent.com/martiurpinas/WorldWideWeb-Browser-/refs/heads/main/browser-2.webp)
-[World Wide Web the Web’s First (And Second) Browser](https://github.com/martiurpinas/WorldWideWeb-Browser-/blob/main/web_browser_20th.jpg)
+[World Wide Web](https://ik.imagekit.io/aoi3fgebjgr/wp-content/uploads/1990/12/browser-2.gif)
+
+[The Web’s First (And Second) Browser](https://ik.imagekit.io/aoi3fgebjgr/wp-content/uploads/1990/12/browser-2.gif)
