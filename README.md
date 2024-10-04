@@ -19,6 +19,6 @@ El segundo navegador de la World Wide Web Browser fue __Line Mode Browser__ este
 La World Wide Web un navegador web más tarde fue rebautizdo con el nombre de __NEXUS__ para poder evitar confusiones entre el software y la World Wide Web un navegador web. 
 
 
-[World Wide Web](https://ik.imagekit.io/aoi3fgebjgr/wp-content/uploads/1990/12/browser-2.gif)
+|![World Wide Web](https://ik.imagekit.io/aoi3fgebjgr/wp-content/uploads/1990/12/browser-2.gif)|
 
-[The Web’s First (And Second) Browser](https://ik.imagekit.io/aoi3fgebjgr/wp-content/uploads/1990/12/browser-2.gif)
+|![The Web’s First (And Second) Browser](https://ik.imagekit.io/aoi3fgebjgr/wp-content/uploads/1990/12/browser-2.gif)|
