@@ -21,4 +21,4 @@ La World Wide Web un navegador web más tarde fue rebautizdo con el nombre de __
 
 |![World Wide Web](https://ik.imagekit.io/aoi3fgebjgr/wp-content/uploads/1990/12/browser-2.gif)|
 
-|![The Web’s First (And Second) Browser](https://ik.imagekit.io/aoi3fgebjgr/wp-content/uploads/1990/12/browser-2.gif)|
+|![The Web’s First (And Second) Browser](https://github.com/martiurpinas/WorldWideWeb-Browser-/blob/main/WorldWideWeb.png)|
